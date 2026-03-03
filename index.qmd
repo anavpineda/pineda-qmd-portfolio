@@ -2,14 +2,14 @@
 title: "Home"
 ---
 
-# Your Name
+# Ana Pineda
 
-Welcome! I’m **Your Name**, a Data Analytics major interested in **(your interests here: data visualization, analytics engineering, sports analytics, public health, etc.)**.
+Welcome! I’m **Ana Pineda**, a Data Analytics major interested in **image analysis and biological applications**.
 
 ## What you’ll find here
 - A few projects I’m proud of
 - The tools I use (R, Python, SQL, Tableau/Power BI, Excel)
-- Ways to contact me
+- Ways to contact me:
 
 ::: callout-note
 **Tip:** This site is built with Quarto. It’s designed to be reproducible and easy to update as your work evolves.
@@ -18,9 +18,9 @@ Welcome! I’m **Your Name**, a Data Analytics major interested in **(your inter
 ## Quick highlights
 - **Skills:** R, tidyverse, SQL, data visualization, statistical modeling  
 - **Interests:** (add 2–3)  
-- **Currently seeking:** internships / research / full-time roles (optional)
+- **Currently seeking:** research and full-time roles 
 
 ## Contact
-- Email: yourname@example.com  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: (optional)
+- Email: anavpineda1@gmail.com
+- GitHub: https://github.com/anavpineda  
+- LinkedIn: https://www.linkedin.com/in/anavpineda/

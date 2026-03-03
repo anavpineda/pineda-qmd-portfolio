@@ -9,11 +9,11 @@ title: "About"
 
 # About Me
 
-I’m a junior/senior Data Analytics student at **College Name**. I enjoy turning messy data into clear insights and communicating results in a reproducible way.
+I’m a senior Data Analytics student at **Denison University**. I enjoy turning messy data into clear insights and communicating results in a reproducible way with a focus on image analysis and they ways in which it can help discern issues in biology.
 
 ## Skills
-- **Programming:** R (tidyverse), (Python), SQL  
-- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI  
+- **Programming:** R (tidyverse, dplyr), Python (numPy, OpenCV, SpaCy, pandas), SQL  
+- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI, ASANA 
 - **Analytics:** visualization, modeling, experimental design, reporting
 
 ## What I’m working on
